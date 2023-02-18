@@ -1,13 +1,33 @@
 .nav-link
 {
  margin-left: 20px;
-
+ font-size: 20px;
+ font-family:'Pangolin';
 }
+
 .navbar-nav
 {
-    margin-left: 750px;
+    margin-left: 730px;
+    
 }
-.dropdown-menu
+
+#logo
 {
-   margin-right: 100px;
+ height: 70px;
+ width: 80px;
+ 
 }
+.nombrelogo
+{
+   padding-top: 15px;
+   font-size: 25px;
+   font-family:'Pangolin';
+}
+.iconNav
+{
+    margin-right: 30px;
+    scroll-margin-left: 20px;
+}
+.dropdown-menu {
+    margin-right: 0px;
+  }
